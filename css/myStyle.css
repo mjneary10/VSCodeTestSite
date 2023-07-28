@@ -23,7 +23,7 @@
   
 }
 nav {
-  background-color:pink;
+  background-color:rgb(170, 146, 150);
   grid-area:nav;
   border-radius:var(--main-radius);
   padding:var(--main-padding)
